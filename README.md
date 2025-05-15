@@ -60,3 +60,17 @@ Identifying design properties such as colors, typography, and spacing from mocku
 - Accelerate development by using consistent design tokens and reusable components.
 
 A clearly defined design system makes collaboration smoother between designers and developers and results in a more polished, user-friendly product.
+
+
+## Project Roles and Responsibilities
+
+| **Role**            | **Responsibilities**                                                                 |
+|---------------------|----------------------------------------------------------------------------------------|
+| **Project Manager** | Oversees project timeline, coordinates team efforts, manages deliverables.             |
+| **Frontend Developers** | Develop UI components, ensure responsive design, and integrate with backend APIs.     |
+| **Backend Developers** | Build and maintain RESTful APIs, manage database systems, and implement business logic. |
+| **Designers**        | Create UI/UX mockups, define visual styles, and ensure a cohesive user experience.     |
+| **QA/Testers**       | Write test cases, perform manual and automated testing, and report bugs.               |
+| **DevOps Engineers** | Manage CI/CD pipelines, monitor deployment environments, and ensure system scalability. |
+| **Product Owner**    | Define project requirements, prioritize features, and serve as liaison for stakeholders.|
+| **Scrum Master**     | Facilitate agile cerprocessesemonies, remove blockers, and organizes meetings.           |

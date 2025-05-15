@@ -74,3 +74,26 @@ A clearly defined design system makes collaboration smoother between designers a
 | **DevOps Engineers** | Manage CI/CD pipelines, monitor deployment environments, and ensure system scalability. |
 | **Product Owner**    | Define project requirements, prioritize features, and serve as liaison for stakeholders.|
 | **Scrum Master**     | Facilitate agile cerprocessesemonies, remove blockers, and organizes meetings.           |
+
+
+
+## UI Component Patterns
+
+This section outlines the reusable UI components planned for the Airbnb Clone project. Each component is designed to ensure consistency, maintainability, and responsiveness across the application.
+
+#### 🔹 Navbar
+- Includes the application logo, navigation links, search bar, and user account access.
+- Designed to be responsive with a mobile-friendly menu.
+
+#### 🔹 Property Card
+- Displays property image, location, price per night, and rating.
+- Includes a favorite (heart) icon for bookmarking.
+- Responsive layout that adjusts across devices.
+
+#### 🔹 Footer
+- Contains essential site links (About, Help, Terms).
+- Includes company contact info and social media icons.
+- Copyright information
+- Styled for visual clarity and accessibility.
+
+Each of these components will be built with reusability in mind to streamline development and ensure UI consistency.

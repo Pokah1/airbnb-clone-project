@@ -37,3 +37,26 @@ Responsive design guarantees usability on any device, boosting accessibility.
 Fast loading pages reduce bounce rates and increase booking conversions.
 Consistent interface builds trust and makes users feel confident using the platform.
 
+
+#### Color Styles
+- **Primary:** `#FF5A5F`
+- **Secondary:** `#008489`
+- **Background:** `#FFFFFF`
+- **Text:** `#222222`
+- **Secondary Text:** `#717171`
+
+
+### Typography
+- **Primary Font:** Circular, Medium (500), 16px
+- **Headings:**  Circular, Bold (700), 24px-32px 
+- **Secondary Text:**
+  Circular, Book (400), 14px
+
+  #### Importance of Design Properties in Mockups
+Identifying design properties such as colors, typography, and spacing from mockups is crucial for ensuring visual consistency across the application. It helps developers and designers:
+- Maintain brand identity.
+- Ensure accessibility through proper contrast and font readability.
+- Improve user experience by adhering to familiar design patterns.
+- Accelerate development by using consistent design tokens and reusable components.
+
+A clearly defined design system makes collaboration smoother between designers and developers and results in a more polished, user-friendly product.
